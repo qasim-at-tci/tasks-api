@@ -1,0 +1,17 @@
+{
+  "name": "todo-api",
+  "version": "0.0.1",
+  "description": "The todo tasks api.",
+  "main": "app.js",
+  "author": "Qasim Abdullah <qasim.abdullah@travis-ci.org\"",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
